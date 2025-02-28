@@ -19,8 +19,8 @@ export default function Home() {
           <p>
             Our platform is designed for convenience, offering a seamless
             ordering experience, secure Google authentication, and real-time
-            order tracking. Whether you're craving something spicy, sweet, or
-            savory, we’ve got you covered.
+            order tracking. Whether you&apos;re craving something spicy, sweet, or
+            savory, we&apos;ve got you covered.
           </p>
           <p>
             Enjoy fresh, delicious food delivered fast. Order now and experience
